@@ -190,5 +190,8 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# Exclude all .csproj files
+*.csproj
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
